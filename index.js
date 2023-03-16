@@ -9,4 +9,6 @@ const cors = require("cors");
 app.use(cors())
 server.use(middlewares)
 server.use(router)
-server.listen(port)
+server.listen(port, () => {
+    console.log("json server is running")
+})
