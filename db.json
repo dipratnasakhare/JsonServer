@@ -1,73 +1,16 @@
 {
-  "hotels": [
+  "course": [
     {
       "id":1,
-      "category": "Family",
-      "image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/09/room-deluxe_70df34c103b85ce7b2b5ff918ab8cf72.jpg",
-      "type_of_room": "AC",
-      "bed_type": "Double",
-      "no_of_persons":"2",
-      "capacity":"3",
-      "cost":"4000",
-      "booked":false
-    },
-    {
-      "id":2,
-      "category": "Family",
-      "image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/09/room-deluxe_70df34c103b85ce7b2b5ff918ab8cf72.jpg",
-      "type_of_room": "AC",
-      "bed_type": "Double",
-      "no_of_persons":"2",
-      "capacity":"3",
-      "cost":"4000",
-      "booked":false
-    },
-    {
-      "id":3,
-      "category": "Family",
-      "image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/09/room-deluxe_70df34c103b85ce7b2b5ff918ab8cf72.jpg",
-      "type_of_room": "AC",
-      "bed_type": "Double",
-      "no_of_persons":"2",
-      "capacity":"3",
-      "cost":"4000",
-      "booked":false
-    },
-    {
-      "id":4,
-      "category": "Family",
-      "image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/09/room-deluxe_70df34c103b85ce7b2b5ff918ab8cf72.jpg",
-      "type_of_room": "AC",
-      "bed_type": "Double",
-      "no_of_persons":"2",
-      "capacity":"3",
-      "cost":"4000",
-      "booked":false
+      "courseName":"Classical Guitar",
+      "description":"Guitar classes for",
+      "instructer":"ms.Jane Doe",
+      "instruments":"Guitar",
+      "dayOfTheWeek":"Wednesday",
+      "numberOfStudents":"26",
+      "price":"30",
+      "status":"Active"  
     }
   ],
-"users": [],
-"mock-08_movies":[
-	{
-		"id" : 1,
-		"poster" : "https://image.tmdb.org/t/p/original/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
-		"title" : "Doctor Strange in the Multiverse of Madness",
-		"director" : "Sam Raimi",
-		"year" : 2022,
-		"genre" : "Action",
-		"IMDB_Rating" : 6.8,
-		"ticket" : 200
-	},
-	{
-		"id" : 2,
-		"poster" : "https://images2.9c9media.com/image_asset/2019_2_14_f02ce589-7434-4ef2-ae0f-1879c20072e2_png_2000x3000.jpg",
-		"title" : "I Am Legend",
-		"director" : "Francis Lawrence",
-		"year" : 2007,
-		"genre" : "Horror",
-		"IMDB_Rating" : 7.2,
-		"ticket" : 200
-	}
-],
-"mock-08_users":[],
-"mock-08_bookings":[]
+"users": []
 }
